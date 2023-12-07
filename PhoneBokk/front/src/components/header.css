@@ -1,0 +1,12 @@
+.head{
+    background: black;
+    text-decoration: none !important;
+    text-align: center;
+    padding: 10px;
+    
+}
+.head a{
+    text-decoration: none;
+    color: bisque;
+    margin: 20px;
+}
